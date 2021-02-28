@@ -1,7 +1,6 @@
 # A simple MIPS-like CPU demo in C++ for Xilinx Vivado HLS
 
 
-   因为自己不是做ML/AI之类的 学习HLS主要是进行存储/网络的加速 故本次project打算将本科学习的MIPS CPU设计（使用Verilog实现）改用HLS实现
    
 ------
 ## Plan
